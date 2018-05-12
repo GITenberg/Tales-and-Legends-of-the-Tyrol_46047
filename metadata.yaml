@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '43587'
     url: http://www.gutenberg.org/2009/agents/43587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46047#Tales-and-Legends-of-the-Tyrol
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
